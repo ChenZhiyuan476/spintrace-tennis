@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "macOS",
+      "includePath": [
+        "${workspaceFolder}/src",
+        "${workspaceFolder}/vendor/SDL3.framework/Headers"
+      ],
+      "compilerPath": "/usr/bin/clang++",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "macos-clang-arm64"
+    }
+  ],
+  "version": 4
+}

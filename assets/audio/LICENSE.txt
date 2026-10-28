@@ -1,0 +1,35 @@
+Tennis racket hit samples
+=========================
+
+Source: "Tennis Ball being hit" by jacklilley
+Source page: https://freesound.org/people/jacklilley/sounds/338122/
+Description: Tennis balls being hit by a professional, recorded with a Rode
+microphone and Zoom H4N.
+License: Creative Commons Zero 1.0 (CC0 / public domain dedication)
+License page: https://creativecommons.org/publicdomain/zero/1.0/
+
+tennis_hit_1.wav, tennis_hit_2.wav and tennis_hit_3.wav are short, normalized,
+mono excerpts prepared from the public preview recording. Attribution is not
+required by CC0, but the source is retained here for provenance.
+
+Natural match body, serve and surface recordings
+=================================================
+
+Source pack: "Tennis" by jamesdrake89
+Source page: https://freesound.org/people/jamesdrake89/packs/37011/
+Files used: Tennis Forehand 2, Tennis Serves 3, Tennis Bounce Ball on Grass
+License: Creative Commons Zero 1.0 (CC0 / public domain dedication)
+
+match_forehand_*.wav, match_serve_*.wav and bounce_grass_*.wav are normalized
+mono one-shots prepared from those public preview recordings.
+
+Net impact and hard-court bounce recording
+==========================================
+
+Source: "Net Impact Tennis Ball Smacks Bounces" by amsaenz03
+Source page: https://freesound.org/people/amsaenz03/sounds/788265/
+License: Creative Commons Zero 1.0 (CC0 / public domain dedication)
+
+net_impact.wav and bounce_hard_*.wav are separate events cut from this real
+court recording. bounce_clay_*.wav are duller filtered derivatives of the
+same real tennis-ball court impacts.
